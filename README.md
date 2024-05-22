@@ -20,6 +20,6 @@ primerApellido_segundoApellido_proyecto
 
 ![Alt Captura de Pantalla](Captura.png)
 
-## Documento a entregar
+## Archivo a entregar
 
 :paperclip: ![Alt Documento adjunto de la actividad](Romero_Brambila_proyecto.zip)
